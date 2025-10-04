@@ -9,6 +9,6 @@ Actualmente tengo ciertos conocimientos en <i>HTML y CSS</i>, anteriormente ya h
 
     
 Tambié estoy aprendiendo un poco de lenguaje en JAVA, como pedir datos al usuario, calcular variables, etc
-![10GIF](https://github.com/user-attachments/assets/6f7f7da6-00c4-43c1-a906-b2d4491bd487)
+![ProgrammLoadingInProgressGIF](https://github.com/user-attachments/assets/aaf4ad42-3b93-4fae-8b30-c3ac3bc05e62)
 
 
