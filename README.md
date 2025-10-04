@@ -4,12 +4,11 @@ Estoy estudiando un grado superior de desarrollo de páginas web.![CodingGIF](ht
 <!DOCTYPE html>
 <html>
     <head>
-        <title>David Cantero García</title>
-    </head>
+       
 
-    <body>
+    
 Actualmente tengo ciertos conocimientos en <i>HTML y CSS</i>, anteriormente ya he creado algunas páginbas usando lo básico como cambiar colores y fuente de las letras, insertar imagenes, enlazar la página con otro HTML o incluso con un CSS
-
+<body>
 <div>
 <p  style ="color: orange;">Tambié estoy aprendiendo un poco de lenguaje en JAVA, como pedir datos al usuario, calcular variables, etc </p>
 </div>
